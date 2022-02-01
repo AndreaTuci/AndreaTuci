@@ -6,7 +6,7 @@ def hello_world():
             'languages': ['Python', 'Javascript', 'HTML', 'CSS'];
             'tools':  ['Django', 'React', 'React Native'];
             'interests': ['Automation','Bots','Web','Games'];
-            'focus': 'learning'
+            'focus': 'web development'
         }
 
         
